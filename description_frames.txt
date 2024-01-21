@@ -1,0 +1,9 @@
+0:0:05  5   cold and snowy isolated landscape in the mountains.
+0:0:15  10  a mountaineer boot packing a snowy slope.
+0:0:39  15  a skiier traversing a snowy slope.
+0:1:03  30  skiing
+0:2:12  5   a skiier falls over
+0:2:30  5   a skiier loses his ski
+0:3:04  20  more skiing
+0:3:25  10  a skiier fails to land a jump
+0:3:57  18  the group of skiiers return home

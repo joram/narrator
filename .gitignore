@@ -1,0 +1,8 @@
+.env
+assets
+*.mp4
+.idea*
+/venv
+/narration
+/frames/*
+!/frames/.gitkeep
